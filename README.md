@@ -1,4 +1,5 @@
-### Hi there 👋
+[![tacmasi's github stats](https://github-readme-stats.vercel.app/api?username=tacmasi&count_private=true)](https://github.com/tacmasi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacmasi&layout=compact)](https://github.com/tacmasi)
 
 <!--
 **tacmasi/tacmasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
